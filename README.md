@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Priya. I am a tech enthusiast and lifelong learner who loves to explore new technologies and experiment with creative ideas to build cool stuff.
+- 🌱 I’m currently learning : full stack engineering
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with : ____
+- 💬 Ask me about 
+- 📫 How to reach me: patidar05priya@gmail.com
+- ⚡ Fun fact: Running is my happy place - it's where I go to clear my mind, recharge my batteries, and find my inner zen.
 <!--
 **patidar05priya/patidar05priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
